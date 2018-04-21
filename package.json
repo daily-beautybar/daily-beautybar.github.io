@@ -1,7 +1,7 @@
 {
-  "name": "uphair-website",
-  "version": "1.0.4",
-  "description": "Uphair Color Bar website",
+  "name": "daily-website",
+  "version": "2.0.0",
+  "description": "Daily Beauty Bar website",
   "main": "dist/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
